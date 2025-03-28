@@ -11,7 +11,9 @@ int main(){
     float pib1 = 799.38;
     int numeroPontosTuristicos1 = 60; 
 
+    printf("Cadastro de cartas!!!\n");
 
+ 
     printf("Carta: \n");
     scanf("%d", &carta);
 
